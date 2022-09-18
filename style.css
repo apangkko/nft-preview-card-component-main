@@ -132,3 +132,9 @@ a:hover {
 .creationOf {
     font-size: 1rem;
 }
+
+@media (max-width:350px) {
+    .price-date {
+        flex-direction: column;
+    }
+}
